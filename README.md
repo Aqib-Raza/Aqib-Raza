@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aqib-Raza
 - 👀 I’m interested in Android and Dekstop app development 
 
-- 🌱 I’m currently doing c++ and andriod development with java 
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently doing C++ and android development with Java and Kotlin 
+- 💞️ I’m looking to collaborate on Android projects
 
 
 <!---
